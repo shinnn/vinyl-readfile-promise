@@ -1,6 +1,6 @@
 {
   "name": "vinyl-readfile-promise",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Promise to create a vinyl file object from an actual file",
   "repository": "shinnn/vinyl-readfile-promise",
   "author": {
