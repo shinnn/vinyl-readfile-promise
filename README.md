@@ -1,11 +1,11 @@
 # vinyl-readfile-promise
 
-[![NPM version](https://img.shields.io/npm/v/vinyl-readfile-promise.svg?style=flat)](https://www.npmjs.com/package/vinyl-readfile-promise)
-[![Build Status](https://img.shields.io/travis/shinnn/vinyl-readfile-promise.svg?style=flat)](https://travis-ci.org/shinnn/vinyl-readfile-promise)
+[![NPM version](https://img.shields.io/npm/v/vinyl-readfile-promise.svg)](https://www.npmjs.com/package/vinyl-readfile-promise)
+[![Build Status](https://img.shields.io/travis/shinnn/vinyl-readfile-promise.svg)](https://travis-ci.org/shinnn/vinyl-readfile-promise)
 [![Build status](https://ci.appveyor.com/api/projects/status/exsbqpeixknb679w?svg=true)](https://ci.appveyor.com/project/ShinnosukeWatanabe/vinyl-readfile-promise)
-[![Coverage Status](https://img.shields.io/coveralls/shinnn/vinyl-readfile-promise.svg?style=flat)](https://coveralls.io/r/shinnn/vinyl-readfile-promise)
-[![Dependency Status](https://img.shields.io/david/shinnn/vinyl-readfile-promise.svg?style=flat&label=deps)](https://david-dm.org/shinnn/vinyl-readfile-promise)
-[![devDependency Status](https://img.shields.io/david/dev/shinnn/vinyl-readfile-promise.svg?style=flat&label=devDeps)](https://david-dm.org/shinnn/vinyl-readfile-promise#info=devDependencies)
+[![Coverage Status](https://img.shields.io/coveralls/shinnn/vinyl-readfile-promise.svg)](https://coveralls.io/r/shinnn/vinyl-readfile-promise)
+[![Dependency Status](https://img.shields.io/david/shinnn/vinyl-readfile-promise.svg?label=deps)](https://david-dm.org/shinnn/vinyl-readfile-promise)
+[![devDependency Status](https://img.shields.io/david/dev/shinnn/vinyl-readfile-promise.svg?label=devDeps)](https://david-dm.org/shinnn/vinyl-readfile-promise#info=devDependencies)
 
 [Promises/A+][Promise] version of [vinyl-file](https://github.com/sindresorhus/vinyl-file):
 
@@ -66,7 +66,7 @@ vinylReadFile('path/to/file', {buffer: false}).then(onFulFilled, onRejected);
 
 ## License
 
-Copyright (c) [Shinnosuke Watanabe](https://github.com/shinnn)
+Copyright (c) 2014 - 2015 [Shinnosuke Watanabe](https://github.com/shinnn)
 
 Licensed under [the MIT License](./LICENSE).
 
